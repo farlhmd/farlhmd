@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=farlhmd">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=farlhmd"> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farlhmd&layout=compact)]
 
