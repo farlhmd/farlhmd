@@ -2,7 +2,7 @@
 
 Welcome to the code repository created a boy who doesn't really love to code, but still has to challenge himself.
 
-BTW, here's some code that I recently used:
+BTW, here are some languanges recently 'speak'':
 
 <p align="left">
 <a href="https://github.com/farlhmd">
