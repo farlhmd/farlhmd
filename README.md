@@ -1,11 +1,13 @@
-### Yo! 👋
+### Yo There! 👋
 
+Welcome to the code repository created a boy who doesn't really love to code, but still has to challenge himself.
 
+BTW, here's some code that I recently used:
 
 <p align="left">
 <a href="https://github.com/farlhmd">
 
-  <!--
+
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farlhmd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
