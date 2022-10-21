@@ -1,6 +1,6 @@
 ### Yo There! 👋
 
-Welcome to the code repository created a boy who doesn't really love to code, but still has to challenge himself.
+Welcome to the code repository created by a boy who doesn't really love to code, but still has to challenge himself.
 
 BTW beside english, here are some languanges I recently 'speak'':
 
